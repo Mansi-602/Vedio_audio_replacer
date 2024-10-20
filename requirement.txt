@@ -1,6 +1,0 @@
-streamlit
-moviepy
-SpeechRecognition
-gTTS
-requests
-non_existing_package==0.0.1
